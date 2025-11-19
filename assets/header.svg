@@ -1,0 +1,140 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes twinkle {
+          0% { opacity: 0.2; transform: scale(0.8); }
+          50% { opacity: 1; transform: scale(1.2); }
+          100% { opacity: 0.2; transform: scale(0.8); }
+        }
+        @keyframes float {
+          0% { transform: translateY(0px); }
+          50% { transform: translateY(-20px); }
+          100% { transform: translateY(0px); }
+        }
+        @keyframes type {
+          from { width: 0; }
+          to { width: 100%; }
+        }
+        @keyframes scan {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+        
+        .container {
+          width: 100%;
+          height: 400px;
+          background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #312e81 100%);
+          position: relative;
+          overflow: hidden;
+          font-family: 'Segoe UI', Ubuntu, Sans-Serif;
+          color: white;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          border-radius: 10px;
+        }
+        
+        .star {
+          position: absolute;
+          background: white;
+          border-radius: 50%;
+          animation: twinkle 4s infinite ease-in-out;
+        }
+        
+        .planet {
+          position: absolute;
+          right: 10%;
+          top: 20%;
+          width: 100px;
+          height: 100px;
+          background: radial-gradient(circle at 30% 30%, #fbbf24, #d97706);
+          border-radius: 50%;
+          box-shadow: 0 0 40px rgba(251, 191, 36, 0.3);
+          animation: float 6s infinite ease-in-out;
+          z-index: 1;
+        }
+        
+        .planet-ring {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          width: 160px;
+          height: 40px;
+          border: 4px solid rgba(255, 255, 255, 0.3);
+          border-radius: 50%;
+          transform: translate(-50%, -50%) rotate(-20deg);
+        }
+
+        .title-container {
+          z-index: 10;
+          text-align: center;
+          background: rgba(15, 23, 42, 0.6);
+          padding: 2rem;
+          border-radius: 16px;
+          backdrop-filter: blur(5px);
+          border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        h1 {
+          font-size: 3.5rem;
+          margin: 0;
+          background: linear-gradient(90deg, #818cf8, #c084fc, #f472b6);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-size: 200% auto;
+          animation: scan 5s linear infinite;
+          letter-spacing: -2px;
+        }
+
+        .subtitle {
+          font-size: 1.2rem;
+          color: #94a3b8;
+          margin-top: 10px;
+          font-weight: 300;
+          letter-spacing: 4px;
+          text-transform: uppercase;
+        }
+
+        .grid {
+          position: absolute;
+          bottom: 0;
+          width: 200%;
+          height: 200px;
+          background-image: 
+            linear-gradient(rgba(99, 102, 241, 0.1) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(99, 102, 241, 0.1) 1px, transparent 1px);
+          background-size: 40px 40px;
+          transform: perspective(500px) rotateX(60deg) translateY(100px) translateX(-25%);
+          animation: scan 20s linear infinite;
+        }
+
+      </style>
+      
+      <div class="container">
+        <!-- Stars -->
+        <div class="star" style="top: 10%; left: 10%; width: 2px; height: 2px; animation-delay: 0s;"></div>
+        <div class="star" style="top: 20%; left: 80%; width: 3px; height: 3px; animation-delay: 1s;"></div>
+        <div class="star" style="top: 60%; left: 20%; width: 2px; height: 2px; animation-delay: 2s;"></div>
+        <div class="star" style="top: 80%; left: 70%; width: 2px; height: 2px; animation-delay: 0.5s;"></div>
+        <div class="star" style="top: 40%; left: 40%; width: 1px; height: 1px; animation-delay: 3s;"></div>
+        
+        <!-- Planet -->
+        <div class="planet">
+          <div class="planet-ring"></div>
+        </div>
+
+        <!-- Grid Floor -->
+        <div class="grid"></div>
+
+        <!-- Content -->
+        <div class="title-container">
+          <h1>Juan Pablo Sanchez</h1>
+          <div class="subtitle">ArchiTech of the Future</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
