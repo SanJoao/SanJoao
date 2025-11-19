@@ -1,3 +1,86 @@
+<div align="center">
+  <img src="assets/header.svg" alt="ArchiTech of the Future" width="100%" />
+  
+  <p align="center">
+    <br />
+    <a href="https://github.com/SanJoao">GitHub</a>
+    <br />
+    <br />
+    <a href='https://ko-fi.com/I2I718XFUI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  </p>
+</div>
+
+---
+
+### 📜 The Manifesto
+
+> *"Systems shape life, and life shapes systems. I’m here to share ideas that flow with this balance, exploring how thoughtful innovation can improve the way we live and interact with the world."*
+
+I am a **Founder & AI Product Builder** applying AI to solve tangible human problems. I believe the most powerful innovations come from identifying a real-world frustration and building a solution from the ground up.
+
+---
+
+### 🚀 The Cosmic Trail of Creations
+
+Take a peek into the universe of things we’ve built. *Warning: may cause sudden bursts of inspiration.*
+
+| **Severo** | **Snipy** | **Divo** |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/SanJoao/Severo/main/assets/preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/SanJoao/Snipy/main/assets/preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/SanJoao/Divo/main/assets/preview.png" width="250" /> |
+| **AI Language Tutor** <br> *Gemini AI, React Native* | **AI Video Editor** <br> *Computer Vision, LLMs* | **Visual Web Editor** <br> *No-Code, Tailwind* |
+
+| **LuarAI** | **VibeCell** | **Zenota** |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/SanJoao/LuarAI/main/assets/preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/SanJoao/VibeCell/main/assets/preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/SanJoao/Zenota/main/assets/preview.png" width="250" /> |
+| **Our Portfolio Universe** <br> *React, Creative Dev* | **AI Spreadsheet** <br> *Vibe Coding, Data* | **Spatial Note Taking** <br> *React, Canvas* |
+
+---
+
+### 🛸 Mission Control
+
+<div align="center">
+  <img src="https://github.com/SanJoao/SanJoao/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
+---
+
+### 🛠 The Toolkit
+
+<div align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<!-- AI & Data -->
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<!-- Web & Mobile -->
+<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+
+<!-- Tools & Design -->
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
   <p>Made with ♥ and a sprinkle of stardust.</p>
   <p>© 2025 Luar AI</p>
 </div>
