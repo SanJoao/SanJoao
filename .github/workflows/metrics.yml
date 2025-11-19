@@ -36,13 +36,11 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           
-          # Stargazers
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
+          # Stargazers (Disabled)
+          plugin_stargazers: no
           
-          # Isometric Calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # Isometric Calendar (Disabled)
+          plugin_isocalendar: no
           
           # Languages
           plugin_languages: yes
@@ -60,9 +58,7 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_trim: yes
           plugin_habits_from: 200
-          plugin_habits_days: 30        # Increased to 30 to find more data
+          plugin_habits_days: 14        # Reduced to 14 to avoid timeouts
           
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C   # Fixed invalid threshold
+          # Achievements (Disabled)
+          plugin_achievements: no
