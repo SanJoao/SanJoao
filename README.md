@@ -22,9 +22,9 @@ I am a **Founder & AI Product Builder** applying AI to solve tangible human prob
 
 <div align="center">
   <p align="center">
-    <a href="https://www.linkedin.com/in/juanpablosan/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/juanpablosan/" target='_blank'><img height='40' style='border:0px;height:40px;border-radius:12px;' src='https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5' border='0' alt='Connect on LinkedIn' /></a>
     &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href='https://ko-fi.com/I2I718XFUI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://ko-fi.com/I2I718XFUI' target='_blank'><img height='40' style='border:0px;height:40px;border-radius:12px;' src='https://img.shields.io/badge/Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=FF5E5B' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   </p>
 </div>
 
