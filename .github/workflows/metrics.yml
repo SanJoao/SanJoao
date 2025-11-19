@@ -35,23 +35,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_sections: base, repositories, history
           
-          # Stargazers (Disabled)
-          plugin_stargazers: no
-          
           # Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
-          # Languages
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines, percentage
-          
-          # Habits
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          
-          # People
-          plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers, sponsors

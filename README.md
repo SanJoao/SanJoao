@@ -15,7 +15,22 @@ I am a **Founder & AI Product Builder** applying AI to solve tangible human prob
 ### 🛸 Mission Control
 
 <div align="center">
-  <img src="https://github.com/SanJoao/SanJoao/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/SanJoao/SanJoao/blob/main/github-metrics.svg" alt="Core Metrics" width="100%">
+</div>
+
+#### 💻 Languages & Technologies
+<div align="center">
+  <img src="https://github.com/SanJoao/SanJoao/blob/main/github-metrics-languages.svg" alt="Languages" width="100%">
+</div>
+
+#### 📊 Coding Habits
+<div align="center">
+  <img src="https://github.com/SanJoao/SanJoao/blob/main/github-metrics-habits.svg" alt="Habits" width="100%">
+</div>
+
+#### 👥 Community
+<div align="center">
+  <img src="https://github.com/SanJoao/SanJoao/blob/main/github-metrics-people.svg" alt="Community" width="100%">
 </div>
 
 ---

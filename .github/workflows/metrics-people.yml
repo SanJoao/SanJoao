@@ -1,0 +1,27 @@
+name: People Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: SanJoao
+          template: classic
+          base: ""
+          config_timezone: America/Bogota
+          filename: github-metrics-people.svg
+          
+          # People - Community engagement
+          plugin_people: yes
+          plugin_people_types: contributors, stargazers, watchers, sponsors
