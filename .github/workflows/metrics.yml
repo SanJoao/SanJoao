@@ -34,7 +34,7 @@ jobs:
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+          plugin_lines_sections: history
           
           # Stargazers (Disabled)
           plugin_stargazers: no
@@ -57,7 +57,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 150
           plugin_habits_days: 14        # Reduced to 14 to avoid timeouts
           
           # Achievements (Disabled)
