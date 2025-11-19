@@ -20,22 +20,6 @@ I am a **Founder & AI Product Builder** applying AI to solve tangible human prob
 
 ---
 
-### 🚀 The Cosmic Trail of Creations
-
-Take a peek into the universe of things we’ve built. *Warning: may cause sudden bursts of inspiration.*
-
-| **Severo** | **Snipy** | **Divo** |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/SanJoao/Severo/main/assets/preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/SanJoao/Snipy/main/assets/preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/SanJoao/Divo/main/assets/preview.png" width="250" /> |
-| **AI Language Tutor** <br> *Gemini AI, React Native* | **AI Video Editor** <br> *Computer Vision, LLMs* | **Visual Web Editor** <br> *No-Code, Tailwind* |
-
-| **LuarAI** | **VibeCell** | **Zenota** |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/SanJoao/LuarAI/main/assets/preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/SanJoao/VibeCell/main/assets/preview.png" width="250" /> | <img src="https://raw.githubusercontent.com/SanJoao/Zenota/main/assets/preview.png" width="250" /> |
-| **Our Portfolio Universe** <br> *React, Creative Dev* | **AI Spreadsheet** <br> *Vibe Coding, Data* | **Spatial Note Taking** <br> *React, Canvas* |
-
----
-
 ### 🛸 Mission Control
 
 <div align="center">
