@@ -38,26 +38,20 @@ jobs:
           # Stargazers (Disabled)
           plugin_stargazers: no
           
-          # Isometric Calendar (Disabled)
-          plugin_isocalendar: no
+          # Isometric Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           
           # Languages
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_colors: github
-          plugin_languages_threshold: 0%
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, percentage
           
           # Habits
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          plugin_habits_from: 150
-          plugin_habits_days: 14        # Reduced to 14 to avoid timeouts
           
-          # Achievements (Disabled)
-          plugin_achievements: no
+          # People
+          plugin_people: yes
+          plugin_people_types: contributors, stargazers, watchers, sponsors
