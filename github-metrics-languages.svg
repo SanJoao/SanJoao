@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 18.3mb of code in 205 edited files across 85 commits</small>
+                <small>estimation from 18.3mb of code in 230 edited files across 86 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.4925866959377" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="448.4925866959377" y="0" width="8.545941430482145" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.0385281264198" y="0" width="1.1278758336264327" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.16640396004624" y="0" width="0.953016075354698" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.11942003540094" y="0" width="0.8805799645990257" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.3565403455333" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="445.3565403455333" y="0" width="11.056838167787346" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.41337851332065" y="0" width="1.520280037773432" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.9336585510941" y="0" width="1.1199892575788524" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.0536478086729" y="0" width="0.9463521913270695" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,19 +39,7 @@
                             </div>
                             <small>
                                 <div>14.2k lines</div>
-                                <div>97.5%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                CSS
-                            </div>
-                            <small>
-                                <div>649 lines</div>
-                                <div>0.25%</div>
+                                <div>96.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,22 +50,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>256 lines</div>
-                                <div>0.19%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JavaScript
-                            </div>
-                            <small>
-                                <div>2.35k lines</div>
-                                <div>1.86%</div>
+                                <div>485 lines</div>
+                                <div>0.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,6 +64,32 @@
                             <small>
                                 <div>350 lines</div>
                                 <div>0.21%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                JavaScript
+                            </div>
+                            <small>
+                                <div>3.02k lines</div>
+                                <div>2.4%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                CSS
+                            </div>
+                            <small>
+                                <div>649 lines</div>
+                                <div>0.24%</div>
                             </small>
                         </div>
                     </section>
