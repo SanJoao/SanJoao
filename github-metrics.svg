@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.70m added, 144k removed
+                                    1.24m added, 20.6k removed
                                 </div>
                             </section>
                             <section>
@@ -229,7 +229,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">SanJoao/visual_editor</span>
+                            <span class="diff-handle">SanJoao/Neo4j-UserFriendly</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -241,7 +241,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">SanJoao/idea2</span>
+                            <span class="diff-handle">SanJoao/note_system</span>
                         </div>
                     </section>
                     <section>
@@ -264,8 +264,8 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">  +658k</span>
-                                <span class="deleted">  -108k</span>
+                                <span class="added">  +271k</span>
+                                <span class="deleted">     -1</span>
                             </div>
                             <span> </span>
                         </div>
@@ -288,8 +288,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +25.4k</span>
-                                <span class="deleted"> -10.5k</span>
+                                <span class="added"> +21.3k</span>
+                                <span class="deleted"> -6.78k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -339,29 +339,29 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,32.35816327144224)">
+                            <g class="tick" opacity="1" transform="translate(0,32.80988881569756)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">400k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">40k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,86.67908163572112)">
+                            <g class="tick" opacity="1" transform="translate(0,86.90494440784877)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">200k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,195.32091836427887)">
+                            <g class="tick" opacity="1" transform="translate(0,195.09505559215123)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−200k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,249.64183672855776)">
+                            <g class="tick" opacity="1" transform="translate(0,249.19011118430242)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−400k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−40k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L49.308,140.5L59.615,140.5L80.231,140.5L90.538,140.5L100.846,140.5L111.154,140.5L121.462,140.5L131.769,140.5L142.077,140.5L152.385,140.5L162.692,140.5L183.308,140.5L193.615,140.5L214.231,140.5L307,140.5L317.308,140.5L441,140.5L441,139.509L317.308,108.247L307,122.103L214.231,140.481L193.615,140.172L183.308,132.97L162.692,129.586L152.385,117.827L142.077,5L131.769,140.119L121.462,140.352L111.154,140.344L100.846,139.024L90.538,139.684L80.231,140.157L59.615,139.379L49.308,138.61L39,138.783Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L49.308,140.5L59.615,140.5L80.231,140.5L90.538,140.5L100.846,140.5L111.154,140.5L121.462,140.5L131.769,140.5L142.077,140.5L152.385,140.5L162.692,140.5L183.308,140.5L193.615,140.5L214.231,140.5L307,140.5L317.308,140.5L441,140.5L441,140.971L317.308,145.166L307,141.702L214.231,140.504L193.615,140.645L183.308,140.593L162.692,150.891L152.385,158.143L142.077,141.411L131.769,140.812L121.462,140.512L111.154,140.515L100.846,140.947L90.538,141.125L80.231,140.564L59.615,141.188L49.308,140.502L39,140.531Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L49.308,140.5L59.615,140.5L80.231,140.5L90.538,140.5L100.846,140.5L111.154,140.5L183.308,140.5L193.615,140.5L214.231,140.5L307,140.5L317.308,140.5L441,140.5L441,130.636L317.308,5L307,56.285L214.231,140.311L193.615,137.233L183.308,65.513L111.154,138.942L100.846,125.802L90.538,132.375L80.231,137.081L59.615,129.335L49.308,121.68L39,123.406Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L49.308,140.5L59.615,140.5L80.231,140.5L90.538,140.5L100.846,140.5L111.154,140.5L183.308,140.5L193.615,140.5L214.231,140.5L307,140.5L317.308,140.5L441,140.5L441,145.19L317.308,154.551L307,141.604L214.231,140.543L193.615,141.947L183.308,141.428L111.154,140.654L100.846,144.955L90.538,146.724L80.231,141.138L59.615,147.354L49.308,140.524L39,140.806Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -2366,7 +2366,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2026, 03:01:12 (timezone America/Bogota) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Mar 2026, 04:59:15 (timezone America/Bogota) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
